@@ -4,7 +4,6 @@ from time import sleep
 from dotenv import load_dotenv
 import os
 
-
 from models.employee import Employee
 from models.menuitem import MenuItem
 
@@ -124,4 +123,4 @@ class API:
             return jsonify(ingredients)
 
     def run(self):
-        self.app.run(port = os.getenv("port") or 5000)
+        self.app.run(port = os.getenv("PORT") or 4000)
