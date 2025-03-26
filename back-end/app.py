@@ -123,4 +123,4 @@ class API:
             return jsonify(ingredients)
 
     def run(self):
-        self.app.run(port = os.getenv("PORT") or 5000)
+        self.app.run(host = '0.0.0.0', port = os.getenv("PORT",5000))
