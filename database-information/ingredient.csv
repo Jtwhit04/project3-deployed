@@ -1,0 +1,40 @@
+id,name,storage,total_quantity_available,unit,is_active
+1,Black Tea,PANTRY,50,UNITS,true
+2,Green Tea,PANTRY,50,UNITS,true
+3,Oolong Tea,PANTRY,50,UNITS,true
+4,Sugar,PANTRY,1000,GRAMS,true
+5,Water,FRIDGE,-1,LITERS,true
+6,Honey,PANTRY,100,GRAMS,true
+7,Coffee,PANTRY,100,LITERS,true
+8,Ginger,FRIDGE,1000,GRAMS,true
+9,Milk,FRIDGE,100,LITERS,true
+10,Tapioca Pearls,PANTRY,2000,GRAMS,true
+11,Hokkaido Milk Powder,PANTRY,50,LITERS,true
+12,Condensed Milk,FRIDGE,100,LITERS,true
+13,Taro Paste,FRIDGE,2000,GRAMS,true
+14,Mango Syrup,FRIDGE,25,LITERS,true
+15,Jelly,FRIDGE,2000,GRAMS,true
+16,Pudding,FRIDGE,2000,GRAMS,true
+17,Matcha,PANTRY,2000,GRAMS,true
+18,Red Beans,FRIDGE,2000,GRAMS,true
+19,Watermelon Syrup,FRIDGE,25,LITERS,true
+20,Lemon Juice,FRIDGE,50,LITERS,true
+21,Strawberry Syrup,FRIDGE,25,LITERS,true
+22,Peach Syrup,FRIDGE,25,LITERS,true
+23,Aiyu Jelly,FRIDGE,2000,GRAMS,true
+24,Kiwi Syrup,FRIDGE,25,LITERS,true
+25,Passion Fruit Syrup,FRIDGE,25,LITERS,true
+26,Tropical Fruit Mix,FRIDGE,100,UNITS,true
+27,Orange Juice,FRIDGE,50,LITERS,true
+28,Grapefruit Juice,FRIDGE,50,LITERS,true
+29,Watermelon Juice,FRIDGE,50,LITERS,true
+30,Cocoa Powder,PANTRY,2000,GRAMS,true
+31,Lime Juice,FRIDGE,50,LITERS,true
+32,Mint,FRIDGE,2000,GRAMS,true
+33,Crushed Oreo,PANTRY,2000,GRAMS,true
+34,Ice Cream,FREEZER,50,UNITS,true
+35,Lychee Jelly,FRIDGE,2000,GRAMS,true
+36,Cup,PANTRY,400,UNITS,true
+37,Straw,PANTRY,400,UNITS,true
+38,Ice,FREEZER,-1,UNITS,true
+39,Boba,FRIDGE,2000,GRAMS,true

@@ -1,0 +1,25 @@
+.login-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    height: 100%;
+}
+
+.employee-id-input {
+    font-size: 1.5rem;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    text-align: center;
+    width: 200px;
+}
+
+.numpad {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+}

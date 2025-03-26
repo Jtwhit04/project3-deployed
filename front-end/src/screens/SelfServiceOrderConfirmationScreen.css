@@ -1,0 +1,26 @@
+.self-service-order-confirmation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    user-select: none;
+    text-align: center;
+}
+
+.return-button {
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    background-color: #64558f;
+    color: white;
+    transition: background-color 0.3s;
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+.return-button:hover {
+    background-color: #4b3b6e;
+}

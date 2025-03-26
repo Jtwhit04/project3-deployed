@@ -1,0 +1,12 @@
+.back-button {
+    background: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: gainsboro;
+    margin-left: 5px;
+    width: 10%;
+    height: 50%;
+}

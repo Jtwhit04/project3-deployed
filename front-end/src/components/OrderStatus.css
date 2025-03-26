@@ -1,0 +1,120 @@
+.order-status {
+    position: relative;
+    overflow-y: visible;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100%;
+    user-select: none;
+}
+
+.order-status-items {
+    position: relative;
+    top: 0;
+    overflow-y: auto;
+    display: block;
+    align-items: flex-start;
+    width: 100%;
+    flex: 1;
+    padding: 0 20px;
+}
+
+.order-status-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.item-main {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 5px 0;
+    user-select: none;
+}
+
+.item-modifications {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 20px);
+    margin-left: 20px;
+    user-select: none;
+    flex: 1;
+    padding-bottom: 5px;
+}
+
+.item-modification {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 5px 0;
+    user-select: none;
+}
+
+.order-status-item-remove, .order-status-mod-remove {
+    cursor: pointer;
+}
+
+.order-status-divider {
+    width: 100%;
+    height: 1px;
+    background-color: #f0f0f0;
+    margin: 20px 0;
+}
+
+.order-status-costs-container {
+    position: relative;
+    bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.order-status-subtotal {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.order-status-tax {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.order-status-total {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.order-status-checkout {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.order-status-checkout-button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #41d86b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.order-status-checkout-button:hover {
+    background-color: #3cc25a;
+}

@@ -1,0 +1,57 @@
+.inventory-screen {
+  overflow: hidden;
+  flex-direction: column;
+  display: flex;
+  background-color: #fffcfc;
+  width: 100vw;
+}
+
+thead { /* keeps column names at top of table */
+  top: 0;
+  position: sticky;
+}
+
+.table-container {
+  flex-grow: 1;
+  overflow-y: auto;
+  max-height: calc(100% - 40px); /* necessary to prevent pushing off screen*/
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #64558f;
+  color: white;
+}
+
+.loading {
+  height: 250px;
+  font-size: 15px;
+  color: #535252;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-message {
+  padding: 10px;
+  margin: 15px;
+  color: #f93330;
+  background-color: #f2efef;
+  text-align: center;
+}
+
+.inventory-summary {
+  padding: 10px;
+  font-size: 15px;
+  text-align: center;
+}

@@ -1,0 +1,48 @@
+id,name,cost,calories,category,is_active
+1,Classic,5.63,320,MILK_TEA,true
+2,Honey,6.00,320,MILK_TEA,true
+3,Classic Coffee,6.00,310,MILK_TEA,true
+4,Ginger,6.00,300,MILK_TEA,true
+5,Coffee,6.38,320,MILK_TEA,true
+6,Classic Pearl,6.75,300,MILK_TEA,true
+7,Hokkaido Pearl,6.90,245,MILK_TEA,true
+8,Thai Pearl,6.90,410,MILK_TEA,true
+9,Taro Pearl,7.13,717,MILK_TEA,true
+10,Mango Green,7.13,300,MILK_TEA,true
+11,QQ Happy Family,7.13,490,MILK_TEA,true
+12,Matcha Red Bean,7.13,300,MILK_TEA,true
+13,Mango Green,6.38,717,FRUIT_TEA,true
+14,Watermelon Lemonade,6.38,650,FRUIT_TEA,true
+15,Strawberry,6.38,584,FRUIT_TEA,true
+16,Peach with Aiyu Jelly,6.75,300,FRUIT_TEA,true
+17,Peach Kiwi with Aiyu Jelly,6.75,245,FRUIT_TEA,true
+18,Honey Lemonade with Aloe Vera,6.75,717,FRUIT_TEA,true
+19,Kiwi with Aiyu Jelly,6.75,300,FRUIT_TEA,true
+20,Mango & Passion Fruit,6.75,340,FRUIT_TEA,true
+21,Hawaii with Aiyu Jelly,6.75,282,FRUIT_TEA,true
+22,Tropical Fruit,6.75,224,FRUIT_TEA,true
+23,"Passionfruit, Orange, and Grapefruit",6.75,389,FRUIT_TEA,true
+24,Fresh Milk,6.38,433,FRESH_MILK,true
+25,Watermelon with Fresh Milk,6.38,247,FRESH_MILK,true
+26,Cocoa Lover,6.38,277,FRESH_MILK,true
+27,Fresh Milk Family,6.75,364,FRESH_MILK,true
+28,Matcha with Fresh Milk,6.75,455,FRESH_MILK,true
+29,Handmade Taro with Fresh Milk,7.50,320,FRESH_MILK,true
+30,Lime Mojito,7.13,302,TEA_MOJITO,true
+31,Mango Mojito,7.13,300,TEA_MOJITO,true
+32,Peach Mojito,7.13,300,TEA_MOJITO,true
+33,Strawberry Mojito,7.13,300,TEA_MOJITO,true
+34,Classic Black Tea,5.63,300,BREWED_TEA,true
+35,Classic Green Tea,5.63,300,BREWED_TEA,true
+36,Classic Oolong Tea,5.63,168,BREWED_TEA,true
+37,Wintermelon Tea,5.63,168,BREWED_TEA,true
+38,Honey Black / Green Tea,5.63,168,BREWED_TEA,true
+39,Ginger Tea,5.63,414,BREWED_TEA,true
+40,Oreo with Pearl,8.25,300,ICE_BLENDED,true
+41,Taro with Pudding,8.25,300,ICE_BLENDED,true
+42,Thai Tea with Pearl,8.25,455,ICE_BLENDED,true
+43,Matcha Red Bean with Ice Cream,8.25,516,ICE_BLENDED,true
+44,Coffee with Ice Cream,8.25,300,ICE_BLENDED,true
+45,Mango with Ice Cream,8.25,455,ICE_BLENDED,true
+46,Strawberry with Lychee Jelly & Ice Cream,8.25,455,ICE_BLENDED,true
+47,Peach Tea with Lychee Jelly,8.25,455,ICE_BLENDED,true

@@ -1,0 +1,9 @@
+id,name,cost,calories,category,ingredient_id,quantity,is_active
+0,Extra Sugar,0.5,50,SUGAR,4,5,true
+1,Less Ice,0,0,ICE_LEVEL,38,0,true
+2,Add Boba,1,100,TOPPINGS,39,50,true
+3,Extra Toppings,0.75,80,TOPPINGS,5,0,true
+4,Extra Cream,0.5,70,MISCELLANEOUS,9,0.01,true
+5,Black Tea,0,2,TEA_TYPE,1,1,true
+6,Green Tea,0,2,TEA_TYPE,2,1,true
+7,Oolong Tea,0,2,TEA_TYPE,3,1,true
